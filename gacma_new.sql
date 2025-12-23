@@ -1,6 +1,6 @@
 -- 主机： localhost:3306
 -- 生成日期： 2021-05-31 02:51:14
--- 服务器版本： 10.2.38-MariaDB
+-- 服务器版本： 10.2.38-MariaDB _mysql 5.7
 -- PHP 版本： 7.3.28
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
