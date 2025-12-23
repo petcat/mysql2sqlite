@@ -1,7 +1,3 @@
--- phpMyAdmin SQL Dump
--- version 4.9.5
--- https://www.phpmyadmin.net/
---
 -- 主机： localhost:3306
 -- 生成日期： 2021-05-31 02:51:14
 -- 服务器版本： 10.2.38-MariaDB
